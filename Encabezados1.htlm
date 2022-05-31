@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Encabezados</title>
+    </head>
+    
+    <body>
+
+        <h2>El Encabezado</h2>
+
+        <p>Los encabezados HTML son títulos o subtítulos que desea mostrar en una página web.</p>
+        
+        <h1> London </h1>
+        <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+        
+    </body>
+</html>
