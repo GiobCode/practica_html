@@ -1,0 +1,15 @@
+<! DOCTYPE html>
+<html>
+    <head>
+        <title>Atributos HTML</title>
+    </head>
+    <body>
+
+        <h2>El atributo title</h2>
+
+        <p>El atributo title define información adicional sobre un elemento</p>
+        
+        <p title = "About W3Schools"> W3Schools is a web developer's site.</p>
+        
+    </body>
+</html>
